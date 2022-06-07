@@ -1,6 +1,6 @@
 <table>
 <tr>
-    <td><img src="https://s3.us-east-2.amazonaws.com/assets.nnext.io/img/nnext-dark-sq.png" width="100" /></td>
+    <td><img src="https://s3.us-east-2.amazonaws.com/assets.nnext.io/img/nnext-logo-sq-transparent.png" width="100" /></td>
     <td>NNext</td>
     <td>NNext (read: "Next") is a blazingly fast ⚡️ open-source NN vector search engine to power your AI 🤖 apps.</td>
     <td><img src="https://s3.us-east-2.amazonaws.com/assets.nnext.io/img/icons8-c%2B%2B-bw.svg" width="50" /></td>
